@@ -1,6 +1,7 @@
 from collections import deque
 
 class Graph:
+    @staticmethod
     def construct_from_input():
         v,_,e = map(int,input().split())
         g = Graph(v)

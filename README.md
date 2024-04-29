@@ -17,6 +17,6 @@ Solutions to [kattis problems](https://open.kattis.com/problems)
 |[Hopscotch 50](https://open.kattis.com/problems/hopscotch50)| [python 3](https://github.com/MehrnooshZandi/kattis-solutions/blob/main/python/hopscotch_50.py)|[![:cat:](https://open.kattis.com/favicon)](https://github.com/MehrnooshZandi/kattis-solutions/tree/main/python)
 |[sanic](https://open.kattis.com/problems/sanic)| [python 3](https://github.com/MehrnooshZandi/kattis-solutions/blob/main/python/sanic.py)|[![:cat:](https://open.kattis.com/favicon)](https://github.com/MehrnooshZandi/kattis-solutions/tree/main/python)
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)| [python 3](https://github.com/MehrnooshZandi/kattis-solutions/blob/main/python/i've_been_everywhere%2C_man.py)|[![:cat:](https://open.kattis.com/favicon)](https://github.com/MehrnooshZandi/kattis-solutions/tree/main/python)
-|[A Towering Problem](https://open.kattis.com/problems/towering)| [C]([ ](https://github.com/MehrnooshZandi/kattis-solutions/blob/main/C/towering.c))|[![:cat:](https://open.kattis.com/favicon)](https://github.com/MehrnooshZandi/kattis-solutions/tree/main/python)
+|[A Towering Problem](https://open.kattis.com/problems/towering)| [C](https://github.com/MehrnooshZandi/kattis-solutions/blob/main/C/towering.c)|[![:cat:](https://open.kattis.com/favicon)](https://github.com/MehrnooshZandi/kattis-solutions/tree/main/python)
 
 
